@@ -51,6 +51,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries or support, please contact:
-- [Your Name](mailto:your.email@example.com)
+- [G Avineshwar](mailto:avineshwar2002@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/avineshwar-gowrabathina-81a5ba217/
 
 ---
